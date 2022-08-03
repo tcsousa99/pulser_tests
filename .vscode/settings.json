@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pulser_results.C": "cpp",
+        "ostream": "cpp"
+    }
+}
